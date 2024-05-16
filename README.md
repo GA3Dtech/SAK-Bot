@@ -1,20 +1,20 @@
-#GA3D-SAK-Bot
+# GA3D-SAK-Bot
 
 a kind of Opensource Swiss Army Knife 3Dprinter for your needs in maker’s activities and in the circular economy.
 
-##Online presence links
+## Online presence links
 [https://linktr.ee/ga3d](https://linktr.ee/ga3d)
 
 
 ![GA3D-SAK-Bot](GA3D-SAK-Bot.png)
 
-##License
+## License
 CERN Open Hardware Licence Version 2 - Weakly Reciprocal
 
-##Copyright 
+## Copyright 
 © 2015-2024 | GA3D - SAK-Bot | licensed under CERN-OHL-W-2.0 | by Alain David Geiser in Morat/Switzerland | contact via DM on social Media
 
-##Disclaimer
+## Disclaimer
 Disclaimer
 
 This source, containing the design of a multifunctional 3Dprinter/machine, is provided by the authors {GA3D} on an “as-is” basis, without any express of implied warranties of any kind, including of merchantability, satisfactory quality, fitness for a particular purpose, compliance with standards or regulatory requirements, or the non-infringement of third party rights in its production, distribution and use.
