@@ -2,6 +2,8 @@
 
 a kind of Opensource Swiss Army Knife 3Dprinter for your needs in maker’s activities and in the circular economy.
 
+![GA3D-SAK-Bot](GA3D-SAK-Bot_45degInfiniteOriginalMixAssembly.png)
+
 ## Online presence links
 [https://linktr.ee/ga3d](https://linktr.ee/ga3d)
 
